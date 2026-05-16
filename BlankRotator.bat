@@ -3,7 +3,6 @@ setlocal EnableDelayedExpansion
 
 echo *** Starting Neverwinter Nights ***
 
-:: BOTH WITHOUT QUOTES
 :: Your NWN:EE document directory on the next line, the location of your logs directory and nwnplayer.ini
 set "EEDocDir=NWN DOCUMENTS FOLDER HERE"
 :: Your EE nwmain.exe install directory on the next line
